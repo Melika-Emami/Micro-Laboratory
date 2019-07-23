@@ -1,1 +1,1 @@
-# Micro-Labratory
+# Micro-Laboratory
